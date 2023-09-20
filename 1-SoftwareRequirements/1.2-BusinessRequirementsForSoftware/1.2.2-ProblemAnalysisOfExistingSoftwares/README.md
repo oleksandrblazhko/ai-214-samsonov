@@ -1,7 +1,7 @@
 ### Проблемний аналіз існуючих програмних продуктів
-|                                                                | Безпека праці             | Повага оточуючих               | Зацікавленість літературною прозою      | Тип ліцензії | Примітка |
-| -------------------------------------------------------------- | ------------------------- | ------------------------------ | --------------------------------------- | ------------ | -------- |
-| Продукт / Пошукові фрази                                       | software for labor safety | software for respect of others | software for interest in literary prose |              |          |
-| DR-Software, Inc. - https://dr-software.com/en/                | 4                         |                                |                                         | Freeware     |          |
-| ActiveCampaing - https://www.activecampaign.com/               |                           | 1                              |                                         | Shareware    |          |
-| Gramarly - https://www.grammarly.com/                          |                           |                                | 2                                       | Shareware    |          |
+|                                                                | Безпека праці             | Повага оточуючих               | Зацікавленість літературною прозою      | Тип ліцензії | Примітка                      |
+| -------------------------------------------------------------- | ------------------------- | ------------------------------ | --------------------------------------- | ------------ | --------                      |
+| Продукт / Пошукові фрази                                       | software for labor safety | software for respect of others | software for interest in literary prose |              |                               |
+| DR-Software, Inc. - https://dr-software.com/en/                | 4                         |                                |                                         | Freeware     |                               |
+| ActiveCampaing - https://www.activecampaign.com/               |                           | 1                              |                                         | Shareware    | Недостатній контроль над обробкою та збереженням даних клієнтів, недостатня захищеність від порушень приватності та витоків інформації  |
+| Gramarly - https://www.grammarly.com/                          |                           |                                | 2                                       | Shareware    |                               |
